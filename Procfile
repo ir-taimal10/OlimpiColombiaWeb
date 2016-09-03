@@ -1,1 +1,1 @@
-web: gunicorn olimpiColombia.wsgi
+web: gunicorn OlimpiColombiaWeb.wsgi
