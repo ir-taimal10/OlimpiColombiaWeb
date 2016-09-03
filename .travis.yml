@@ -7,6 +7,6 @@ deploy:
   provider: heroku
   api_key:
     secure: ICy+lVf6bIXkpqEKLNjNwCGwsRTVd4Y7z0fT32B0XeEeDNPPN4/IwUtd4g3FxTtdTSw5aIeZJVKQCShxsuh/Y1GDJEtuOzTYBHV3gVUTsaaBpnOPfe6N2LdQk+vXNBXJcKeTlWqfSRzd/bmeUrrIhol8yuGt/uJj7GBasDYYbo80DUdbvatkFZDxR02VtER8Bqh40IRQTs3mvx/g4XEPJvRW/was/dea0CMGo+7sIwSBub6Dturwp/Ge3djqik1XVWSgz0Pr3B3fyAXjBaqearxlJrsnlvAYlS7dM4MdBRwnzMIAYSN5szxKqTlbAlaq5uBdZE0t4ERoa1YMx79F1f+Pk1kzx7V+8RRSAD+iGIctkzLokLPLqm4VMuDBmiLxr/UAcX6XoGS5w5e8aQoQbAAwYlFvWMGgYDOgY3zISiC48oFwThw8Crdr2tT+l8vEyg0VLqMZ3wyGy5nK/FqGQzRE3rbRd9nlQqMldqZfgTWvyUohjQm/8CYDnntkgVZXo9T5qicPWYZZPlYs5bnC4lpQEgEWfYHMTnT3BveZh5VBwoOFOc7VOpjXr6QT/N4t5Csv2nG3B9gFgYkMLbOw1bAFf4xwXVVg6R/JTtNvI9quc+yEXg/apssRoppgD2WxYUI5rR2/rlZtrDEsAWipqTwFAvdVOzcmgXPtQjeBe+Q=
-  app: OlimpiColombiaWeb
+  app: olimpi-colombia-web
   on:
     repo: itaimal/OlimpiColombiaWeb
